@@ -13,6 +13,9 @@
  setwd("C:/Users/dallenr/projects/utest")
 
 ################################################################################
-## LOAD 
+## RUN
 ################################################################################
+## 1: Format raw data downloads from RedCap
  source("R/01_format_raw_data.r")
+
+## 2: 
